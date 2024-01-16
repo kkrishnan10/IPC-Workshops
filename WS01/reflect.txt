@@ -2,10 +2,18 @@
 
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Karthika Krishnan
+Student ID#: 101801231
+Email      : kkrishnan10@myseneca.ca
+Section    : NAA
+
+1. Do you have any previous programming experience? If so, what language(s)? If not, what are your initial
+thoughts about the C language and this course?
+Ans. No, I dont have any previous programming experience. I know that a lot of programming languages are based on C. Learning the C language can help one know the basics of computer and programming languages.
+2. Describe your understanding of the compiling process of turning a C text file into an executable program.
+Ans. Compiling C is basically the conversion of human-readable C code to machine-readable C code that a computer can execute.
+3. What do you hope to achieve in this course? Describe your goals and expectations.
+Ans. By the successful completion f this course, I expect to learn the important principles of computer programming and problem-solving strategies.
 
 Authenticity Declaration:
 
